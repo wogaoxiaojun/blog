@@ -20,7 +20,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="http://www.houdunren.com">learing</a>
+                    <a class="nav-link" href="#">learing</a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="{{route('user.index')}}">用户列表</a>
